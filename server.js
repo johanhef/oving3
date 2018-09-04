@@ -18,7 +18,7 @@ app.get("/hello", function(req, res) {
 });
 
 app.get("/hello2", function(req, res) {
-  res.json({ message: "Hello world" });
+  res.json({ message: "Hallo Trondheim!" });
 });
 
 app.get("/person", function(req, res) {
