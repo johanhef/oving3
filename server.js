@@ -14,7 +14,7 @@ var pool = mysql.createPool({
 });
 
 app.get("/hello", function(req, res) {
-  res.json({ message: "Hello World" });
+  res.json({ message: "Hallo Trondheim!" });
 });
 
 app.get("/hello2", function(req, res) {
