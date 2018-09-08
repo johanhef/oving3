@@ -5,7 +5,4 @@ Backend will be written with node.js and express supplying front-end with JSON d
 
 Creating a good development environment will be part of this exercise!
 
-test
-test
-test
-test
+testing 08.sept
